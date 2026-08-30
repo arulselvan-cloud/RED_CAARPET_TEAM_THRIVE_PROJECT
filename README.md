@@ -154,6 +154,12 @@ Like → Weight Shift → Feed Re-orders → More of the same at top
 
 Built at the **SKCET Internal Hackathon**.
 
+| Member | Department | Section | Year |
+|---|---|---|---|
+| **Arulselvan M** | CSE | C | 2nd Year |
+| **Sudharsan S** | CSE | C | 2nd Year |
+| **Sudeep CG** | CSE | C | 2nd Year |
+
 ---
 
 ## 📄 License
